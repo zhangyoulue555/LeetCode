@@ -7,6 +7,7 @@ public class test_git {
         System.out.println("test pull2");
         System.out.println("test pull3");
         System.out.println("merge branch");
+        System.out.println("hot-fix commit2 test");
 
 
 
