@@ -32,6 +32,7 @@ public class maxSlidingWindow_239 {
 
     public int[] maxSlidingWindow2(int[] nums, int k) {
 
+        return  null;
 
     }
 }
